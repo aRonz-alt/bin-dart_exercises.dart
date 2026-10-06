@@ -1,0 +1,11 @@
+=== COFFEE SHOP TRANSACTION RECEIPT ===
+Customer Name: Ayron C Climacosa
+Loyalty Member Status: true
+Items Ordered: 3 cups at ₱85.5 each
+Subtotal: ₱256.5
+Applied Discount: ₱20.0
+Final Total Due: ₱236.5
+Split between 2 people: ₱118.25 each
+Remainder modulo check (centavos check): 50 centavos
+Qualifies for Free Delivery (Total >= ₱200)? true
+===========================================
