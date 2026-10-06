@@ -1,7 +1,7 @@
 
 void main() {
  
-  String customerName = "Maria Santos";
+  String customerName = "Ayron C Climacosa";
   int itemQuantity = 3;
   double itemUnitPrice = 85.50;
   bool isLoyaltyMember = true;
@@ -20,7 +20,7 @@ void main() {
   bool qualifiesForFreeDelivery = finalTotal >= 200.0;
 
   
-  print("=== NTC COFFEE SHOP TRANSACTION RECEIPT ===");
+  print("=== COFFEE SHOP TRANSACTION RECEIPT ===");
   print("Customer Name: $customerName");
   print("Loyalty Member Status: $isLoyaltyMember");
   print("Items Ordered: $itemQuantity cups at ₱$itemUnitPrice each");
