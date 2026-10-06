@@ -2,7 +2,7 @@ Dart Fundamentals Exercise: Retail Calculation System
 
 **Course:** NTC PC16 – Mobile Development w/ Lab  
 **Institution:** National Teachers College  
-**Student Name:** [Your Full Name Here]  
+**Student Name:** Ayron C Climacosa  
 **Activity:** Week 7 Formative Code Check – Variables, Data Types, Operators & I/O  
 
 
